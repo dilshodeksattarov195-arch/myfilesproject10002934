@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorepdate",
+        "uuid": 18936036,
+        "checksum": "82l0ob"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
